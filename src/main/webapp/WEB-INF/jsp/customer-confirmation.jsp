@@ -15,5 +15,6 @@
     <p>Customer Confirmed: ${customer.firstName} ${customer.lastName}</p>
     <p>Customer's Free passes: ${customer.freePasses}</p>
     <p>Customer's Postal Code: ${customer.postalCode}</p>
+    <p>Customer's Course Code: ${customer.courseCode}</p>
 </body>
 </html>
